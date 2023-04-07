@@ -1,3 +1,4 @@
+#specifying the VMimage to use 
 pool:
   vmImage: 'Windows-2019'
 
